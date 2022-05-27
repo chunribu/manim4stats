@@ -9,5 +9,4 @@ sudo apt install libcairo2-dev ffmpeg \
     texlive-latex-recommended texlive-science \
     tipa libpango1.0-dev
 pip install manim
-pip install IPython --upgrade
 ```
